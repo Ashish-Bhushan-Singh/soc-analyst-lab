@@ -1,0 +1,4 @@
+11:00:00  finance-pc03  DNS A   paypal-secure-verify.com
+11:00:05  finance-pc03  DNS A   billing-update-portal.net
+11:00:05  finance-pc03  DNS A   billing-update-portal.net
+11:00:06  finance-pc03  DNS A   billing-update-portal.net
