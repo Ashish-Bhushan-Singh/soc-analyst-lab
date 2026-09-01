@@ -1,0 +1,1 @@
+11:03:12  finance-pc03  process=powershell.exe  parent=winword.exe  user=mrodriguez  cmdline="powershell.exe -enc UwB0AGEAcgB0AC0AUAByAG8AYwBlAHMAcwA..."
