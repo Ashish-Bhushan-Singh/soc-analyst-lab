@@ -1,0 +1,2 @@
+11:00:01  PROXY  user=mrodriguez  src=10.20.3.15  dst=paypal-secure-verify.com  action=ALLOWED  category=uncategorized
+11:00:06  PROXY  user=mrodriguez  src=10.20.3.15  dst=billing-update-portal.net  action=ALLOWED  category=uncategorized
