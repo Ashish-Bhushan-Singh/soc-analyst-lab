@@ -1,0 +1,9 @@
+Training scenario — simulated logs and evidence for practice, not a real incident
+
+02:10:01  webserver02  sshd: Failed password for admin from 91.240.118.30 port 33211
+02:10:01  webserver02  sshd: Failed password for admin from 91.240.118.30 port 33213
+... (180 more lines, same pattern, ~1 per second, same IP)
+02:13:58  webserver02  sshd: Accepted password for admin from 91.240.118.30 port 33890
+02:13:59  webserver02  sshd: session opened for user admin by (uid=0)
+
+Training scenario — simulated logs and evidence for practice, not a real incident
